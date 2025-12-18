@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Print Expert Pniewy - Serwis Drukarek",
+  "description": "Profesjonalny serwis drukarek w Pniewach. Zgłaszaj usterki, śledź status naprawy i korzystaj z pomocy AI w diagnozie problemów.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
